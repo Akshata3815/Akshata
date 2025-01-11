@@ -1,14 +1,17 @@
 # 👨‍💻 Akshata Patil's GitHub Profile
 
-Data Analyst
-Python Developer
+Data Analyst,
+Python Developer,
 Data Scientist
 ---
 
 ## 🌟 About Me
 🎓 **Education:**  
 - Graduate in **Data Science**  
-- Proficient in **Python**, **R**, **Machine Learning**, and **Data Science**
+- Proficient in **Python**, **R**, **Machine Learning**, and **Data Science**,**Excel**,**Tableau**,**Power Bi**
+
+  <img align="right" alt="coding" width="400" src="![Working Work From Home GIF by LooseKeys - Find   Share on GIPHY](https://github.com/user-attachments/assets/8e49e016-92d4-400c-8cfd-2c19ba656657)">
+
 
 💡 **Interests:**  
 - 📊 Data Analytics  
