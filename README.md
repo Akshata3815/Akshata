@@ -1,8 +1,8 @@
 # 👨‍💻 Akshata Patil's GitHub Profile
 
-
+Data Analyst
 Python Developer
-
+Data Scientist
 ---
 
 ## 🌟 About Me
